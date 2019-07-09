@@ -9,7 +9,7 @@ A collection of Resizing Shortcuts.
 
 ## Shortcuts
 
-<img src="images/tlrh.png">
+<img src="images/tlrh.png"/>
 ### Header
 - Pin Top,Left,Right
 - Fixed Height
