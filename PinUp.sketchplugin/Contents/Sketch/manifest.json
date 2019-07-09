@@ -128,11 +128,11 @@
       "clearAll"
     ]
   },
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "",
-  "identifier": "pinup",
+  "identifier": "PinUp",
   "disableCocoaScriptPreprocessor": true,
-  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "appcast": "https://raw.githubusercontent.com/acollurafici/PinUp/master/.appcast.xml",
   "author": "Anthony Collurafici",
-  "authorEmail": "acollurafici@alarm.com"
+  "authorEmail": "acollurafici@gmail.com"
 }
