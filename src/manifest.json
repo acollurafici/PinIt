@@ -93,7 +93,7 @@
     },
     {
       "name": "Fixed Size",
-      "identifier": "clearAll",
+      "identifier": "fixedSize",
       "icon": "hw.png",
       "iconDark": "hwDark.png",
       "script": "./fixedSize.js",
