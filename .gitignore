@@ -1,5 +1,6 @@
 # build artifacts
 {{ slug }}.sketchplugin
+Git.sketchplugin/Contents/Sketch
 
 # npm
 node_modules
@@ -14,4 +15,3 @@ npm-debug.log
 
 # sketch
 # sketch-assets
-PinUp.sketchplugin
