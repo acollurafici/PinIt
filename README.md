@@ -12,19 +12,19 @@ A collection of Resizing Shortcuts.
 
 
 
-###Fixed Header <img src="images/tlrh.png" height="24" width="24"/> 
+### <img src="images/tlrh.png" height="24" width="24"/>  Fixed Header 
 - Pin Top,Left,Right
 - Fixed Height
 
-###Fixed Footer
+### Fixed Footer
 - Pin Bottom,Left,Right 
 - Fixed Height
 
-###Fixed Left Side Bar 
+### Fixed Left Side Bar 
 - Pin Top,Left,Bottom 
 - Fixed Width
 
-###Fixed Right Side Bar 
+### Fixed Right Side Bar 
 - Pin Top, Right, Bottom 
 - Fixed Width
 
