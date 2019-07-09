@@ -1,17 +1,16 @@
-# pinup
+# PinUp
 A collection of Resizing Shortcuts. 
 
 ## Installation
 
-- [<a href="https://github.com/acollurafici/PinUp/releases/tag/v0.3.2">Download</a>](https://github.com/acollurafici/PinUp/releases/tag/v0.3.2) the latest release of the plugin
+- [Download](https://github.com/acollurafici/PinUp/releases/tag/v0.3.2) the latest release of the plugin
 - Un-zip
 - Double-click on PinUp.sketchplugin
 
 ## Shortcuts
 
-<img src="images/tlrh.png"/>
 
-### Header
+### Header !<img src="images/tlrh.png"/>
 - Pin Top,Left,Right
 - Fixed Height
 
