@@ -1,0 +1,132 @@
+{
+  "$schema": "https://raw.githubusercontent.com/BohemianCoding/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "name": "PinUp",
+  "commands": [
+    {
+      "name": "Fixed Header",
+      "identifier": "header",
+      "icon": "tlrh.png",
+      "iconDark": "tlrhDark.png",
+      "script": "./header.js",
+      "description": "Fixed Header"
+    },
+    {
+      "name": "Fixed Footer",
+      "identifier": "footer",
+      "icon": "lbrh.png",
+      "iconDark": "lbrhDark.png",
+      "script": "./footer.js",
+      "description": "Fixed Footer"
+    },
+    {
+      "name": "Fixed Left Side Bar",
+      "identifier": "leftSideBar",
+      "icon": "tlbw.png",
+      "iconDark": "tlbwDark.png",
+      "script": "./leftSideBar.js",
+      "description": "Fixed Left Side Bar"
+    },
+    {
+      "name": "Fixed Right Side Bar",
+      "identifier": "rightSideBar",
+      "icon": "tbrw.png",
+      "iconDark": "tbrwDark.png",
+      "script": "./rightSideBar.js",
+      "description": "Fixed Right Side Bar"
+    },
+    {
+      "name": "Row Fixed Size",
+      "identifier": "rowFixed",
+      "icon": "lrh.png",
+      "iconDark": "lrhDark.png",
+      "script": "./rowFixed.js",
+      "description": "Row Fixed Height"
+    },
+    {
+      "name": "Column Fixed Size",
+      "identifier": "columnFixed",
+      "icon": "tbw.png",
+      "iconDark": "tbwDark.png",
+      "script": "./columnFixed.js",
+      "description": "Column Fixed Width"
+    },
+    {
+      "name": "Pin Top",
+      "identifier": "pinTop",
+      "icon": "thw.png",
+      "iconDark": "thwDark.png",
+      "script": "./pinTop.js",
+      "description": "Pin Top"
+    },
+    {
+      "name": "Pin Bottom",
+      "identifier": "pinBottom",
+      "icon": "bhw.png",
+      "iconDark": "bhwDark.png",
+      "script": "./pinBottom.js",
+      "description": "Pin Bottom"
+    },
+    {
+      "name": "Pin Left",
+      "identifier": "pinLeft",
+      "icon": "lhw.png",
+      "iconDark": "lhwDark.png",
+      "script": "./pinLeft.js",
+      "description": "Pin Left"
+    },
+    {
+      "name": "Pin Right",
+      "identifier": "pinRight",
+      "icon": "rhw.png",
+      "iconDark": "hwrDark.png",
+      "script": "./pinRight.js",
+      "description": "Pin Right"
+    },
+    {
+      "name": "Pin All",
+      "identifier": "pinAll",
+      "icon": "tlbr.png",
+      "iconDark": "tlbrDark.png",
+      "script": "./pinAll.js",
+      "description": "Pin All"
+    },
+    {
+      "name": "Fixed Size",
+      "identifier": "clearAll",
+      "icon": "hw.png",
+      "iconDark": "hwDark.png",
+      "script": "./fixedSize.js",
+      "description": "Fixed Size"
+    },
+    {
+      "name": "Clear All",
+      "identifier": "clearAll",
+      "icon": "ca.png",
+      "iconDark": "caDark.png",
+      "script": "./clearAll.js",
+      "description": "Clear All"
+    }
+  ],
+  "menu": {
+    "title": "pinup",
+    "items": [
+      "header",
+      "footer",
+      "leftSideBar",
+      "rightSideBar",
+      "rowFixed",
+      "columnFixed",
+      "-",
+      "pinTop",
+      "pinBottom",
+      "pinLeft",
+      "pinRight",
+      "-",
+      "pinAll",
+      "fixedSize",
+      "clearAll"
+    ]
+  }
+}
+
