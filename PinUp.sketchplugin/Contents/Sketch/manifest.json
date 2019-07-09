@@ -93,7 +93,7 @@
     },
     {
       "name": "Fixed Size",
-      "identifier": "clearAll",
+      "identifier": "fixedSize",
       "icon": "hw.png",
       "iconDark": "hwDark.png",
       "script": "fixedSize.js",
@@ -128,7 +128,7 @@
       "clearAll"
     ]
   },
-  "version": "0.1.4",
+  "version": "0.3.0",
   "description": "",
   "identifier": "PinUp",
   "disableCocoaScriptPreprocessor": true,
