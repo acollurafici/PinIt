@@ -1,14 +1,14 @@
 {
-  "name": "pinup",
+  "name": "PinUp",
   "description": "",
   "version": "0.1.0",
   "engines": {
     "sketch": ">=49.0"
   },
   "skpm": {
-    "name": "pinup",
+    "name": "PinUp",
     "manifest": "src/manifest.json",
-    "main": "{{ slug }}.sketchplugin",
+    "main": "PinUp.sketchplugin",
     "assets": [
       "assets/**/*"
     ],
@@ -23,5 +23,9 @@
   "devDependencies": {
     "@skpm/builder": "^0.7.0"
   },
-  "author": "Anthony Collurafici <acollurafici@alarm.com>"
+  "repository": {
+  "type" : "git",
+  "url" : "https://github.com/acollurafici/PinUp"
+  },
+  "author": "Anthony Collurafici <acollurafici@gmail.com>"
 }
