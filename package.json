@@ -1,7 +1,7 @@
 {
   "name": "PinUp",
   "description": "",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "sketch": ">=49.0"
   },
@@ -24,8 +24,8 @@
     "@skpm/builder": "^0.7.0"
   },
   "repository": {
-  "type" : "git",
-  "url" : "https://github.com/acollurafici/PinUp"
+    "type": "git",
+    "url": "https://github.com/acollurafici/PinUp"
   },
   "author": "Anthony Collurafici <acollurafici@gmail.com>"
 }
