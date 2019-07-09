@@ -10,15 +10,19 @@ A collection of Resizing Shortcuts.
 ## Shortcuts
 
 <img src="images/tlrh.png"/>
+
 ### Header
 - Pin Top,Left,Right
 - Fixed Height
+
 ### Footer
 - Pin Bottom,Left,Right 
 - Fixed Height
+
 ### Left Side Bar 
 - Pin Top,Left,Bottom 
 - Fixed Width
+
 ### Right Side Bar 
 - Pin Top, Right, Bottom 
 - Fixed Width
