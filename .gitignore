@@ -1,6 +1,6 @@
 # build artifacts
 {{ slug }}.sketchplugin
-Git.sketchplugin/Contents/Sketch
+PinIt.sketchplugin/Contents/Sketch
 
 # npm
 node_modules
