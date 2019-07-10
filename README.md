@@ -8,7 +8,7 @@
 
 ## Setup
 - Add actions to Sketch Runner's Runbar
-<img src="images/runbar-setup.gif"/>
+<p align="center"><img src="images/runbar-setup.gif"/></p>
 
 ## Shortcuts
 
@@ -16,7 +16,7 @@
 - Pin Top,Left,Right
 - Fixed Height
 
-### <img src="images/lbth.png" height="24" width="24"/>  Fixed Footer
+### <img src="images/lbrh.png" height="24" width="24"/>  Fixed Footer
 - Pin Bottom,Left,Right 
 - Fixed Height
 
