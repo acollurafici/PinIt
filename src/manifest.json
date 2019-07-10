@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/BohemianCoding/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
   "icon": "icon.png",
-  "name": "PinUp",
+  "name": "PinIt",
   "commands": [
     {
       "name": "Fixed Header",
@@ -109,7 +109,7 @@
     }
   ],
   "menu": {
-    "title": "PinUp",
+    "title": "PinIt",
     "items": [
       "header",
       "footer",

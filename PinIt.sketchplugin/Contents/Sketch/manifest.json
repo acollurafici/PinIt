@@ -109,7 +109,7 @@
     }
   ],
   "menu": {
-    "title": "pinup",
+    "title": "PinUp",
     "items": [
       "header",
       "footer",
@@ -128,11 +128,11 @@
       "clearAll"
     ]
   },
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "",
-  "identifier": "PinUp",
+  "identifier": "PinIt",
   "disableCocoaScriptPreprocessor": true,
-  "appcast": "https://raw.githubusercontent.com/acollurafici/PinUp/master/.appcast.xml",
+  "appcast": "https://raw.githubusercontent.com/acollurafici/PinIt/master/.appcast.xml",
   "author": "Anthony Collurafici",
   "authorEmail": "acollurafici@gmail.com"
 }

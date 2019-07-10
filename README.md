@@ -1,4 +1,4 @@
-# PinUp
+# PinIt
 A collection of Resizing Shortcuts. 
 
 ## Installation
