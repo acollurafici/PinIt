@@ -1,7 +1,7 @@
 {
   "name": "PinIt",
   "description": "A collection of Resizing Shortcuts.",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "engines": {
     "sketch": ">=49.0"
   },
