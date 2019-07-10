@@ -1,5 +1,4 @@
-# PinIt
-A collection of Resizing Shortcuts. 
+<img src="images/Pinit.png" width="100%"/>
 
 ## Installation
 
@@ -7,25 +6,64 @@ A collection of Resizing Shortcuts.
 - Un-zip
 - Double-click on PinUp.sketchplugin
 
+## Setup
+- Add actions to Sketch Runner's Runbar
+<img src="images/runbar-setup.gif"/>
+
 ## Shortcuts
-
-
-
 
 ### <img src="images/tlrh.png" height="24" width="24"/>  Fixed Header 
 - Pin Top,Left,Right
 - Fixed Height
 
-### Fixed Footer
+### <img src="images/lbth.png" height="24" width="24"/>  Fixed Footer
 - Pin Bottom,Left,Right 
 - Fixed Height
 
-### Fixed Left Side Bar 
+### <img src="images/tlbw.png" height="24" width="24"/>  Fixed Left Side Bar 
 - Pin Top,Left,Bottom 
 - Fixed Width
 
-### Fixed Right Side Bar 
+### <img src="images/tbrw.png" height="24" width="24"/>  Fixed Right Side Bar 
 - Pin Top, Right, Bottom 
 - Fixed Width
 
 
+### <img src="images/lrh.png" height="24" width="24"/>  Row Fixed Height 
+- Pin Left, Right 
+- Fixed Height
+
+
+### <img src="images/tbw.png" height="24" width="24"/>  Column Fixed Width 
+- Pin Top, Bottom 
+- Fixed Width
+
+
+### <img src="images/tbw.png" height="24" width="24"/>  Pin Top 
+- Pin Top 
+- Fixed Height, Width
+
+
+### <img src="images/tbw.png" height="24" width="24"/>  Pin Bottom 
+- Pin Bottom 
+- Fixed Height, Width
+
+### <img src="images/tbw.png" height="24" width="24"/>  Pin Left 
+- Pin Left 
+- Fixed Height, Width
+
+### <img src="images/tbw.png" height="24" width="24"/>  Pin Right 
+- Pin Right 
+- Fixed Height, Width
+
+
+### <img src="images/tlbr.png" height="24" width="24"/>  Pin All 
+- Pin Top, Left, Bottom, Right 
+
+
+### <img src="images/hw.png" height="24" width="24"/>  Fixed Size
+- Fixed Height, Width
+
+
+### <img src="images/ca.png" height="24" width="24"/>  Clear All
+- Clear All
