@@ -36,7 +36,7 @@
       "description": "Fixed Right Side Bar"
     },
     {
-      "name": "Row Fixed Size",
+      "name": "Row Fixed Height",
       "identifier": "rowFixed",
       "icon": "lrh.png",
       "iconDark": "lrhDark.png",
@@ -44,7 +44,7 @@
       "description": "Row Fixed Height"
     },
     {
-      "name": "Column Fixed Size",
+      "name": "Column Fixed Width",
       "identifier": "columnFixed",
       "icon": "tbw.png",
       "iconDark": "tbwDark.png",
@@ -128,7 +128,7 @@
       "clearAll"
     ]
   },
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "A collection of Resizing Shortcuts.",
   "identifier": "PinIt",
   "disableCocoaScriptPreprocessor": true,
