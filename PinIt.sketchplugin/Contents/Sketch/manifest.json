@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/BohemianCoding/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
   "icon": "icon.png",
-  "name": "PinUp",
+  "name": "PinIt",
   "commands": [
     {
       "name": "Fixed Header",
@@ -109,7 +109,7 @@
     }
   ],
   "menu": {
-    "title": "PinUp",
+    "title": "PinIt",
     "items": [
       "header",
       "footer",
@@ -128,8 +128,8 @@
       "clearAll"
     ]
   },
-  "version": "0.4.0",
-  "description": "",
+  "version": "0.5.0",
+  "description": "A collection of Resizing Shortcuts.",
   "identifier": "PinIt",
   "disableCocoaScriptPreprocessor": true,
   "appcast": "https://raw.githubusercontent.com/acollurafici/PinIt/master/.appcast.xml",
