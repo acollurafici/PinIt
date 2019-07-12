@@ -6,9 +6,13 @@
 
 <img src="images/runner.png" width="280px"/>
 - Install with Sketch Runner
+
   OR
+
 - [Download](https://github.com/acollurafici/PinUp/releases/tag/v0.3.2) the latest release of the plugin
+
 - Un-zip
+
 - Double-click on PinUp.sketchplugin
 
 ## Setup
