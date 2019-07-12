@@ -1,8 +1,10 @@
 <img src="images/Pinit.png" width="100%"/>
 
+<p align="center"><img src="images/pinit-demo.gif"/></p>
+
 ## Installation
 
-<img src="images/runer.png" width="280px"/>
+<img src="images/runner.png" width="280px"/>
 - Install with Sketch Runner
   OR
 - [Download](https://github.com/acollurafici/PinUp/releases/tag/v0.3.2) the latest release of the plugin
