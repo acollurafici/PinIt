@@ -5,6 +5,7 @@
 ## Installation
 
 <img src="images/runner.png" width="280px"/>
+
 - Install with Sketch Runner
 
   OR
