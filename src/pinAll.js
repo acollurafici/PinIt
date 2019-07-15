@@ -16,16 +16,16 @@ layer.hasFixedHeight = false;
 
 /* Set */
 
-layer.hasFixedLeft = false;
+layer.hasFixedLeft = true;
 layer.hasFixedRight = true;
 layer.hasFixedTop = true;
 layer.hasFixedBottom = true;
 
-layer.hasFixedWidth = true;
+layer.hasFixedWidth = false;
 layer.hasFixedHeight = false;
 })
 
 
 export default function() {
-  sketch.UI.message("Fixed Right Side Bar")
+  sketch.UI.message("Pin All")
 }
