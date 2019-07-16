@@ -79,7 +79,7 @@
       "name": "Pin Right",
       "identifier": "pinRight",
       "icon": "rhw.png",
-      "iconDark": "hwrDark.png",
+      "iconDark": "rhwDark.png",
       "script": "./pinRight.js",
       "description": "Pin: Right | Fixed: Height, Width"
     },
